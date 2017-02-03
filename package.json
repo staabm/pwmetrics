@@ -15,7 +15,7 @@
     "charm": "^1.0.2",
     "google-auth-library": "^0.10.0",
     "googleapis": "^16.0.0",
-    "lighthouse": "1.4.1",
+    "lighthouse": "GoogleChrome/lighthouse",
     "median": "^0.0.2"
   },
   "devDependencies": {
